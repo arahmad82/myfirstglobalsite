@@ -1,0 +1,2 @@
+# myfirstglobalsite
+global website
